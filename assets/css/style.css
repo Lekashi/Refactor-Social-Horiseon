@@ -22,12 +22,6 @@ header h1 {
     font-size: 48px;
 }
 
-/* 
-Replace this code with font color within html
-header h1 .seo {
-    color: #d9dcd6;} 
-*/
-
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,6 +37,17 @@ header div ul {
 header div ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
 }
 
 a {
@@ -110,6 +115,10 @@ p {
     max-width: 150px;
 }
 
+/* 
+---- Social Media Resources -----
+*/
+
 .social-media-resources {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,16 +137,6 @@ p {
     font-size: 36px;
 }
 
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
 
 #Mainpage-pic {
     height: 800px;
