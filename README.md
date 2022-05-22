@@ -1,14 +1,13 @@
 # Refactor-Social-Horiseon
 
-Title: Refactoring Social Marketing Horisieon
-
+## Description:
 This code is a refactored and cleaner version than the original code for social marketing horiseon.
-The original code did not use many symantic elements, no comments, and made too many classes with the same code.
+The original code did not use many symantic elements, no comments, no ease of access code, and made too many classes with the same code.
 This version of the code works to fix these problems in the original code.
 
 The technology used in this website is html and css.
 
-Links:
+## Links:
 
 [Link to Github Repo](https://github.com/Lekashi/Refactor-Social-Horiseon "Link to Github Repo")
 
