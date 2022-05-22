@@ -1,11 +1,13 @@
 # Refactor-Social-Horiseon
 
-## Description:
+### Description:
 This code is a refactored and cleaner version than the original code for social marketing horiseon.
 The original code did not use many symantic elements, no comments, no ease of access code, and made too many classes with the same code.
 This version of the code works to fix these problems in the original code.
 
-The technology used in this website is html and css.
+### Technology used:
+1\. HTML  
+2\. CSS
 
 ## Links:
 
